@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **paithiov909/paithiov909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=paithiov909&show_icons=true?count_private=true)
+
+if you have any concerns, please let me know.
+
+<a href="https://www.buymeacoffee.com/paithiov909" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
