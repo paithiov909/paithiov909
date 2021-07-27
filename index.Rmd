@@ -21,7 +21,7 @@ output:
 suppressWarnings(library(metathis, quietly = TRUE))
 
 meta() %>%
-  meta_description("加藤秋瑠｜maintainer of Japanese text preprocessing tools mainly for R, member of @lyrikuso") %>%
+  meta_description("加藤秋瑠｜maintainer of Japanese text preprocessing tools mainly for R") %>%
   meta_social(
     title = "Kato Akiru｜paithiov909",
     url = "https://paithiov909.github.io/paithiov909/",
