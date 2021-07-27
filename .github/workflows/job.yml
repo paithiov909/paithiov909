@@ -23,6 +23,7 @@ jobs:
       - name: Update Postcard
         run: |
           source("renv/activate.R")
+          renv::restore()
           rmarkdown::render("index.Rmd")
         shell: Rscript {0}
       - name: Create Pull Request

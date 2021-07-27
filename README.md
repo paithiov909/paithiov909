@@ -1,4 +1,4 @@
-加藤秋瑠はHNです
+加藤秋瑠 @lyrikuso｜maintainer of Japanese text processing tools mainly for R
 
 if you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
 
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/paithiov909?style=flat-square)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=paithiov909&show_icons=true?count_private=true)
-
