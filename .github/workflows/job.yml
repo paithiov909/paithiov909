@@ -12,10 +12,13 @@ jobs:
     strategy:
       matrix:
         platform: [windows-latest]
+        r-version: ['4.0.2']
     runs-on: ${{ matrix.platform }}
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: ${{ matrix.r-version }}
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Update Postcard
         run: |
