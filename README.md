@@ -1,5 +1,7 @@
 加藤秋瑠 [@lyrikuso](https://twitter.com/lyrikuso)｜maintainer of Japanese text processing tools mainly for R
 
+<a href="https://www.buymeacoffee.com/paithiov909"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a domburi of coffee&emoji=&slug=paithiov909&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 if you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
 
 <!--
