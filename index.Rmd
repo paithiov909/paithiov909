@@ -11,8 +11,6 @@ links:
     url: "https://github.com/paithiov909"
   - label: Resume
     url: "https://www.resume.id/paithiov909"
-  - label: Buy Me a Coffee
-    url: "https://www.buymeacoffee.com/paithiov909"
 output:
   postcards::onofre
 ---
@@ -21,7 +19,7 @@ output:
 suppressWarnings(library(metathis, quietly = TRUE))
 
 meta() %>%
-  meta_description("加藤秋瑠｜maintainer of Japanese text preprocessing tools mainly for R") %>%
+  meta_description("加藤秋瑠はHNです") %>%
   meta_social(
     title = "Kato Akiru｜paithiov909",
     url = "https://paithiov909.github.io/paithiov909/",
