@@ -1,4 +1,4 @@
-加藤秋瑠 [@lyrikuso](https://twitter.com/lyrikuso)｜maintainer of Japanese text processing tools mainly for R
+加藤秋瑠 [@lyrikuso](https://twitter.com/lyrikuso)
 
 <a href="https://www.buymeacoffee.com/paithiov909"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a domburi of coffee&emoji=🍜&slug=paithiov909&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 
