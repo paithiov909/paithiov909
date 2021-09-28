@@ -1,4 +1,4 @@
-加藤秋瑠 [@lyrikuso](https://twitter.com/lyrikuso)｜if you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
+ [@lyrikuso](https://twitter.com/lyrikuso)｜if you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
 
 <!--
 **paithiov909/paithiov909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
