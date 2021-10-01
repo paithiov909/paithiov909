@@ -9,17 +9,23 @@ links:
     url: "https://twitter.com/paithiov909"
   - label: GitHub
     url: "https://github.com/paithiov909"
-  - label: Resume
-    url: "https://www.resume.id/paithiov909"
+  - label: Bookmeter
+    url: "https://bookmeter.com/users/663995"
+  - label: Wishlist
+    url: "https://www.amazon.jp/hz/wishlist/ls/ONO9C2YOE5VD"
 output:
   postcards::onofre
 ---
 
 ```{r echo=FALSE}
-suppressWarnings(library(metathis, quietly = TRUE))
+suppressWarnings({
+  requireNamespace("postcards", quietly = TRUE)
+  library(metathis, quietly = TRUE)
+  library(cronologia, quietly = TRUE)
+})
 
 meta() %>%
-  meta_description("加藤秋瑠はHNです") %>%
+  meta_description("Kato Akiru (@paithiov909)｜加藤秋瑠はHNです") %>%
   meta_social(
     title = "Kato Akiru｜paithiov909",
     url = "https://paithiov909.github.io/paithiov909/",
@@ -35,3 +41,34 @@ meta() %>%
 ```{r echo=FALSE}
 htmltools::includeMarkdown("README.md")
 ```
+
+---
+
+## Experience
+
+> 仕事でプログラムを書いている「エンジニア」ではないです。
+
+```{r echo=FALSE}
+tm <- data.frame(
+  title = c("父親が認知症になる", "大学生活", "うつ病", "就労", "無職"),
+  desc = c("高2のとき", "早稲田・文化構想学部\n卒論テーマは社会音声学・感情社会学", "1年間の休学後、秋田から週一で東京に通いながら大学を卒業する", "パートタイム（調理補助）", "Webライティング、Rプログラミングなどを細々と"),
+  period = c("2009-", "2012-2017", "2016-2017", "2017-", "2018-")
+)
+create_tml_2(
+  tm,
+  smr = "title", 
+  dsc = "desc", 
+  dsc2 = "period"
+)
+```
+
+---
+
+## Works and Writings
+
+```{r echo=FALSE}
+htmltools::includeHTML("works-and-writings.html")
+```
+
+---
+

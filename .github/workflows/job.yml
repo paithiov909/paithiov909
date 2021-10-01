@@ -9,7 +9,7 @@ jobs:
     strategy:
       matrix:
         platform: [windows-latest]
-        r-version: ['4.0.2']
+        r-version: ['4.1.1']
     runs-on: ${{ matrix.platform }}
     steps:
       - uses: actions/checkout@v2
