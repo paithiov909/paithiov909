@@ -18,6 +18,8 @@ jobs:
           r-version: ${{ matrix.r-version }}
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Update Postcard
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           source("renv/activate.R")
           renv::restore()
