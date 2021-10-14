@@ -2,10 +2,9 @@
 
 #### 個人開発の予定（予定とは言ってない）
 
-1. tangela, coniferにAPIを追加
-2. ldccrの機能追加
-3. Rパッケージの改修（kagomer, pipian, segmentrr）
-4. NLP100本ノックの続き
+1. ldccrの機能追加
+2. pipianの改修
+3. NLP100本ノックの続き
 
 #### そのうちやりたいこと（おそらくやらない）
 
