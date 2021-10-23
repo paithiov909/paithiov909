@@ -1,4 +1,6 @@
-**Kato Akiru** is interested in natural language processing tools mainly for R, Japanese. If you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
+> **Kato Akiru** is interested in natural language processing tools mainly for R, Japanese.
+> 
+> If you have any concerns, please [let me know](https://twitter.com/messages/compose?recipient_id=3237384093).
 
 #### 個人開発の予定（予定とは言ってない）
 
