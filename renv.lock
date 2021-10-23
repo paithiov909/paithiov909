@@ -25,17 +25,10 @@
     },
     "bslib": {
       "Package": "bslib",
-      "Version": "0.3.0",
+      "Version": "0.3.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "074ebc936dbcecd7115ed8083643b550"
-    },
-    "cronologia": {
-      "Package": "cronologia",
-      "Version": "0.2.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "a5922227b77a56f4d9c59451c24b887d"
+      "Hash": "56ae7e1987b340186a8a5a157c2ec358"
     },
     "digest": {
       "Package": "digest",
@@ -179,10 +172,10 @@
     },
     "stringi": {
       "Package": "stringi",
-      "Version": "1.7.4",
+      "Version": "1.7.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "ebaccb577da50829a3bb1b8296f318a5"
+      "Hash": "cd50dc9b449de3d3b47cdc9976886999"
     },
     "stringr": {
       "Package": "stringr",
