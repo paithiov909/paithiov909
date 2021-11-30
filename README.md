@@ -4,8 +4,9 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 
 #### 個人開発の予定（予定とは言ってない）
 
-1. ldccrの機能追加
-2. NLP100本ノックの続き
+1. 形態素解析する用のRパッケージのAPIをrjavacmecabに揃える
+2. ldccrの機能追加
+3. NLP100本ノックの続き
 
 #### そのうちやりたいこと（おそらくやらない）
 
