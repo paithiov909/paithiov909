@@ -40,11 +40,3 @@ meta() %>%
 ```{r echo=FALSE}
 htmltools::includeMarkdown("README.md")
 ```
-
-## Works and Writings
-
----
-
-```{r echo=FALSE}
-htmltools::includeHTML("works-and-writings.html")
-```
