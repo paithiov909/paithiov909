@@ -20,6 +20,7 @@ output:
 ```{r echo=FALSE}
 suppressWarnings({
   requireNamespace("postcards", quietly = TRUE)
+  library(markdown, quietly = TRUE)
   library(metathis, quietly = TRUE)
 })
 
