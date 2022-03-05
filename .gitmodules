@@ -1,0 +1,12 @@
+[submodule "docs/rinternals"]
+	path = docs/rinternals
+	url = https://github.com/hadley/r-internals.git
+[submodule "docs/nlpdatasets"]
+	path = docs/nlpdatasets
+	url = https://github.com/niderhoff/nlp-datasets.git
+[submodule "docs/mlcourses"]
+	path = docs/mlcourses
+	url = https://github.com/dair-ai/ML-YouTube-Courses.git
+[submodule "docs/rust4cpp"]
+	path = docs/rust4cpp
+	url = https://github.com/nrc/r4cppp.git
