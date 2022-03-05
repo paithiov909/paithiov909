@@ -27,7 +27,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: 'paithiov909/r-refs',
+    repo: 'paithiov909/paithiov909',
     editLink: false,
     lastUpdated: false,
     sidebar: [
