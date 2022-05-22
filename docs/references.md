@@ -8,22 +8,9 @@
 
 ## R manuals
 
-### CRAN docs of 'r-release'
-
-- [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
-- [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
-
-### Bookdown of 'version 3.4.2 (2017-09-28)'
-
-- [An Introduction to R](http://colinfay.me/intro-to-r/)
-- [R Data Import/Export](https://colinfay.me/r-data-import-export/)
-- [R Installation and Administration](https://colinfay.me/r-installation-administration/)
-- [Writing R extensions](https://colinfay.me/writing-r-extensions/)
-- [The R language definition](https://colinfay.me/r-language-definition/)
-- [R Internals](https://colinfay.me/r-internals/)
-
 ## R and other programming languages
 
+- [The R Manuals](https://rstudio.github.io/r-manuals/)
 - [Advanced R (2nd edition)](https://adv-r.hadley.nz/)
 - [Advanced R (1st edition)](http://adv-r.had.co.nz/)
 - [R Packages](https://r-pkgs.org/)
@@ -43,6 +30,7 @@
 - [現代の JavaScript チュートリアル](https://ja.javascript.info/)
 - [ゼロから学ぶ C++](https://rinatz.github.io/cpp-book/)
 - [C++ の歩き方](https://cppmap.github.io/)
+- [アルゴリズムとデータ構造大全](https://take44444.github.io/Algorithm-Book/index.html)
 
 ## Data science
 
@@ -56,8 +44,8 @@
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
+- [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/)
 - [Introduction to Theoretical Computer Science: index](https://introtcs.org/public/index.html)
-- [Introduction to Datascience: Learn Julia Programming, Math & Datascience from Scratch.](https://datascience-book.gitlab.io/book.html)
 - [Machine Learning Interviews Book · MLIB](https://huyenchip.com/ml-interviews-book/)
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
 - [ECON5630 Topics in Empirical Industrial Organization](https://kohei-kawaguchi.github.io/EmpiricalIO/)
@@ -124,6 +112,8 @@
 - [Semantic Versioning](https://semver.org/)
 - [ICU Documentation](https://unicode-org.github.io/icu/)
 - [V8 API Reference Guide](https://v8.github.io/api/head/index.html)
-- [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+- [Apache Arrow R Cookbook](https://arrow.apache.org/cookbook/r/index.html)
+- [真面目なプログラマのためのディープラーニング入門](https://euske.github.io/introdl/index.html)
 - [コードで学ぶAWS入門](https://tomomano.github.io/learn-aws-by-coding/)
-
+- [実践 Docker](https://zenn.dev/suzuki_hoge/books/2022-03-docker-practice-8ae36c33424b59)
+- [ITエンジニア採用入門](https://zenn.dev/tbpgr/books/214cd4a0052a92)

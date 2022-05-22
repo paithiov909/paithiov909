@@ -13,4 +13,3 @@ Note that this site uses google analytics. To decline its cookies, please use so
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 - [Rust for C++ programmers](https://github.com/nrc/r4cppp)
-- [Documentation for R's internal C API](https://github.com/hadley/r-internals)

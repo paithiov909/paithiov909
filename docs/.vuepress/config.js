@@ -5,7 +5,7 @@ module.exports = {
   base: '/',
   lang: 'en-US',
   pagePatterns: ['**/*.md', '**/*.vue',
-                 '!**/**/LICENSE.md', '!**/rust4cpp/rc-raw.md', '!**/rinternals/pairlists.md'],
+                 '!**/**/LICENSE.md', '!**/rust4cpp/rc-raw.md'],
   
   title: 'Oreno R-refs',
   description: 'My personal reference site that generated with VuePress',
@@ -38,24 +38,6 @@ module.exports = {
       {
         text: 'References',
         link: '/references.md'
-      },
-      {
-        text: 'R internals',
-        link: '/rinternals/',
-        children: [
-          '/rinternals/environments.md',
-          '/rinternals/error-eval.md',
-          '/rinternals/external-pointers.md',
-          '/rinternals/functions.md',
-          '/rinternals/gc-rc.md',
-          '/rinternals/misc.md',
-          '/rinternals/oo.md',
-          { text: 'Other header files', link: '/rinternals/other-headers.md' },
-          '/rinternals/save-load.md',
-          '/rinternals/strings.md',
-          '/rinternals/symbols.md',
-          '/rinternals/vectors.md'
-       ]
       },
       {
         text: 'Rust for C++ programmers',
