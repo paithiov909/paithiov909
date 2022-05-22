@@ -1,6 +1,3 @@
-[submodule "docs/rinternals"]
-	path = docs/rinternals
-	url = https://github.com/hadley/r-internals.git
 [submodule "docs/nlpdatasets"]
 	path = docs/nlpdatasets
 	url = https://github.com/niderhoff/nlp-datasets.git
