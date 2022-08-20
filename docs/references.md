@@ -8,6 +8,8 @@
 
 ## R manuals
 
+- [The R Manuals](https://rstudio.github.io/r-manuals/)
+
 ## R and other programming languages
 
 - [The R Manuals](https://rstudio.github.io/r-manuals/)
