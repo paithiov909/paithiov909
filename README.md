@@ -2,5 +2,5 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 
 #### Stats
 
-<img class="img-fluid" src="https://github-readme-stats.vercel.app/api?username=paithiov909&count_private=true" alt="commits" />
-<img class="img-fluid" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paithiov909&theme=vue" alt="details" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paithiov909&&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paithiov909&layout=compact)
