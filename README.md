@@ -1,5 +1,8 @@
 If you have any concerns, please <a class="text-light" href="https://twitter.com/messages/compose?recipient_id=3237384093">let me know</a>.
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <p align="left">
