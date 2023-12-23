@@ -1,5 +1,7 @@
 If you have any concerns, please <a class="text-light" href="https://twitter.com/messages/compose?recipient_id=3237384093">let me know</a>.
 
+**Latest blog posts**:
+
 <!-- BLOG-POST-LIST:START -->
 - [tidymodelsを使うとき知っておくとよさそうなこと](https://zenn.dev/paithiov909/articles/tidymodels-tips-2023)
 - [mlpack in R](https://zenn.dev/paithiov909/articles/mlpack-r-package)
