@@ -3,9 +3,9 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [tidymodelsを使った線形回帰](https://zenn.dev/paithiov909/articles/mariokart-linear-reg)
 - [tidymodelsを使うとき知っておくとよさそうなこと](https://zenn.dev/paithiov909/articles/tidymodels-tips-2023)
 - [mlpack in R](https://zenn.dev/paithiov909/articles/mlpack-r-package)
-- [Qiitaの「R」の記事の分析](https://lyrikuso.netlify.app/qiita-article-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
