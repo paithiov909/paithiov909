@@ -3,9 +3,9 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [その purrr::map&lpar;&rpar; 本当に必要ですか？](https://zenn.dev/paithiov909/articles/purrr-and-vctrs)
 - [「短歌地図」を描く（批評とは違う仕方で）](https://lyrikuso.netlify.app/tanka-word2vec/)
 - [星野しずるは社会詠の夢を見るか？](https://lyrikuso.netlify.app/do-dog-and-ape-dream-of-tanka/)
-- [乾遥香「夢のあとさき」について](https://lyrikuso.netlify.app/real-selves-between-dreams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
