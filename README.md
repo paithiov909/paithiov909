@@ -3,9 +3,9 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rで麻雀の手牌を顔の表情で表す](https://zenn.dev/paithiov909/articles/viz-tehais-with-emoticon)
 - [R Extension for VS Codeでraggでプレビューしたい](https://zenn.dev/paithiov909/articles/r-with-ragg-in-vscode)
 - [その purrr::map&lpar;&rpar; 本当に必要ですか？](https://zenn.dev/paithiov909/articles/purrr-and-vctrs)
-- [「短歌地図」を描く（批評とは違う仕方で）](https://lyrikuso.netlify.app/tanka-word2vec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
