@@ -3,9 +3,9 @@ If you have any concerns, please <a class="text-light" href="https://twitter.com
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [base::use&lpar;&rpar;でRパッケージ中の一部の関数だけ読み込む](https://zenn.dev/paithiov909/articles/r-base-use-function)
+- [Rでの日本語形態素解析事情 2025年2月](https://zenn.dev/paithiov909/articles/bench-202502)
 - [Rでランダムっぽい文字列のIDを振る](https://zenn.dev/paithiov909/articles/pseudonymization-in-r)
-- [Rで麻雀の手牌を顔の表情で表す](https://zenn.dev/paithiov909/articles/viz-tehais-with-emoticon)
-- [R Extension for VS Codeでraggでプレビューしたい](https://zenn.dev/paithiov909/articles/r-with-ragg-in-vscode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
