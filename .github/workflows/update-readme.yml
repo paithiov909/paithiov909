@@ -1,6 +1,9 @@
 name: Update Profile
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
 permissions:
   contents: write # To write the generated contents to the readme
 
