@@ -1,16 +1,24 @@
-name: Latest blog post workflow
+name: Update Profile
 on:
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - name: Wakatime stats
+        uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: "main"
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
+          STATS_RANGE: "last_7_days"
       - name: Update posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
