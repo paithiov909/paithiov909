@@ -1,3 +1,6 @@
+[![Articles](https://badgen.org/img/zenn/paithiov909/articles?style=plastic)](https://zenn.dev/paithiov909)
+[![:total status badge](https://paithiov909.r-universe.dev/badges/:total)](https://paithiov909.r-universe.dev)
+
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
@@ -9,6 +12,6 @@
 ---
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paithiov909&theme=default" alt="GitHub stats" />
   <img src="https://github.com/paithiov909/paithiov909/blob/main/images/stat.svg" alt="Wakatime stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paithiov909&theme=default" alt="GitHub stats" />
 </p>
