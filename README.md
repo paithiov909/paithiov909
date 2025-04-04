@@ -1,4 +1,3 @@
-[![Articles](https://badgen.org/img/zenn/paithiov909/articles?style=plastic)](https://zenn.dev/paithiov909)
 [![:total status badge](https://paithiov909.r-universe.dev/badges/:total)](https://paithiov909.r-universe.dev)
 
 **Latest blog posts**:
