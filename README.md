@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rで雑にクリエイティブコーディングしたい](https://zenn.dev/paithiov909/articles/skiagd-intro)
 - [base::use&lpar;&rpar;でRパッケージ中の一部の関数だけ読み込む](https://zenn.dev/paithiov909/articles/r-base-use-function)
 - [Rでの日本語形態素解析事情 2025年2月](https://zenn.dev/paithiov909/articles/bench-202502)
-- [Rでランダムっぽい文字列のIDを振る](https://zenn.dev/paithiov909/articles/pseudonymization-in-r)
 <!-- BLOG-POST-LIST:END -->
 
 ---
