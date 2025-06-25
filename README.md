@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rでクリエイティブコーディング企画に挑戦している話](https://lyrikuso.netlify.app/minacoding-in-r/)
 - [WebRでも動くgganimateのレンダラーを書く](https://zenn.dev/paithiov909/articles/gganimate-apng-renderer)
 - [Rで雑にクリエイティブコーディングしたい](https://zenn.dev/paithiov909/articles/skiagd-intro)
-- [base::use&lpar;&rpar;でRパッケージ中の一部の関数だけ読み込む](https://zenn.dev/paithiov909/articles/r-base-use-function)
 <!-- BLOG-POST-LIST:END -->
 
 ---
