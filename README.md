@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [RのnativeRasterを駆使して涅マユリを輝かせる](https://lyrikuso.netlify.app/how-to-bloom-mayuri-with-nativeraster/)
 - [Rでクリエイティブコーディング企画に挑戦している話](https://lyrikuso.netlify.app/minacoding-in-r/)
 - [WebRでも動くgganimateのレンダラーを書く](https://zenn.dev/paithiov909/articles/gganimate-apng-renderer)
-- [Rで雑にクリエイティブコーディングしたい](https://zenn.dev/paithiov909/articles/skiagd-intro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
