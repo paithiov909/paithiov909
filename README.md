@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [ggplot2で3Dプロットする](https://lyrikuso.netlify.app/plot3d-in-ggplot2/)
 - [R言語にシェーダー芸を求めるのは間違っているだろうか](https://lyrikuso.netlify.app/beyond-the-heliosphere/)
 - [ggplot2のinkとpaperの色は「混ざる」わけじゃないよ](https://zenn.dev/paithiov909/articles/ink-and-paper-settings)
-- [RのnativeRasterを駆使して涅マユリを輝かせる](https://lyrikuso.netlify.app/how-to-bloom-mayuri-with-nativeraster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
