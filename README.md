@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [R言語によるデータソニフィケーション超入門](https://lyrikuso.netlify.app/sonification-using-pipopaplot/)
 - [ggplot2の描画を高速化したかった話](https://zenn.dev/paithiov909/articles/r-accelerating-ggplot2)
 - [ggplot2で3Dプロットする](https://lyrikuso.netlify.app/plot3d-in-ggplot2/)
-- [R言語にシェーダー芸を求めるのは間違っているだろうか](https://lyrikuso.netlify.app/beyond-the-heliosphere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
