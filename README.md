@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [R言語でのアート制作・Rtistryを考える](https://zenn.dev/paithiov909/articles/skiagd-rtistry)
 - [R言語によるデータソニフィケーション超入門](https://lyrikuso.netlify.app/sonification-using-pipopaplot/)
 - [ggplot2の描画を高速化したかった話](https://zenn.dev/paithiov909/articles/r-accelerating-ggplot2)
-- [ggplot2で3Dプロットする](https://lyrikuso.netlify.app/plot3d-in-ggplot2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
