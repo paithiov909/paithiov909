@@ -3,9 +3,9 @@
 **Latest blog posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [短歌を鳴らす、それも「ことば」でなく「音」として](https://lyrikuso.netlify.app/songram-intro/)
 - [R言語でのアート制作・Rtistryを考える](https://zenn.dev/paithiov909/articles/skiagd-rtistry)
 - [R言語によるデータソニフィケーション超入門](https://lyrikuso.netlify.app/sonification-using-pipopaplot/)
-- [ggplot2の描画を高速化したかった話](https://zenn.dev/paithiov909/articles/r-accelerating-ggplot2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
